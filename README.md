@@ -1,5 +1,3 @@
-# beers
-
 > Runs, in parallel, a json-server serving the data stored in data.json and a Vue app that displays the given data using Bootstrap.
 > Visit localhost:8080 to see the result
 
