@@ -16,7 +16,7 @@
     "api": "json-server data.json --port 3000"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.3.0",
     "jest-json-schema": "^2.1.0",
